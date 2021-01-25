@@ -1,8 +1,6 @@
-tg:https://t.me/hahaha8028
 
-tgchannel:https://t.me/ZhiYi8028
 
-有bug欢迎反馈，为了不去大佬群里献丑，开了频道，频道和issue都可以，谢谢
+
 
 特别声明：
 
